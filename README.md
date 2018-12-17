@@ -6,4 +6,8 @@ I didn't have the time to implement Jasmine, i worked with it some times but the
 
 There's no mobile version, only Desktop. 
 
-To run the app clone it, and run index.html. Take in mind the mockup has a limit usage. 
+To run the app clone it, and run index.html or use the following link:
+
+[D3 Test Link]('https://raulcote.github.io/d3-test/')
+
+Take in mind the mockup has a limit usage. 
