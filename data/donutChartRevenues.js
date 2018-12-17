@@ -44,7 +44,7 @@ function donutChartRevenues() {
         })
 
     theArc.append("text")
-      .attr("dy", "-1em")
+      .attr("dy", "-0.7em")
       .style("text-anchor", "middle")
       .style("font-family", "Roboto")
       .style("font-size", "1.23em")
