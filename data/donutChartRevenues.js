@@ -47,6 +47,7 @@ function donutChartRevenues() {
       .attr("dy", "-1em")
       .style("text-anchor", "middle")
       .style("font-family", "Roboto")
+      .style("font-size", "1.23em")
       .attr("fill", "#a9a9a9")
       .text("REVENUE")
 
